@@ -4,6 +4,8 @@ A privacy-preserving cross-chain decentralized autonomous organization (DAO) bui
 
 **Built by**: [sinirlibiber](https://github.com/sinirlibiber)
 
+
+**dApp**: [dApp Link](https://stargate-fhe-wallet-mzgumus40.replit.app)
 ## Features
 
 ### 🔐 Privacy-Preserving Governance
@@ -169,8 +171,6 @@ MIT License - see LICENSE file for details
 ## Acknowledgments
 
 - [Zama](https://www.zama.ai/) for FHE technology
-- [LayerZero](https://layerzero.network/) for cross-chain inspiration
-- [Stargate Finance](https://stargate.finance/) for bridge design patterns
 - [Shadcn/ui](https://ui.shadcn.com/) for beautiful components
 
 ## Contact
